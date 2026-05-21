@@ -109,31 +109,31 @@ public/         -> Public assets
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](public/storage/photos/login.png)
+![Login Page](./public/storage/photos/login.png)
 
 ### Menu Page
-![Menu Page](public/storage/photos/menu.png)
+![Menu Page](./public/storage/photos/menu.png)
 
 ### Cart Page
-![Cart Page](public/storage/photos/cart.png)
+![Cart Page](./public/storage/photos/cart.png)
 
 ### Contact Page
-![Contact Page](public/storage/photos/contact.png)
+![Contact Page](./public/storage/photos/contact.png)
 
 ### Admin Page
-![Admin Page](public/storage/photos/admin.dashboard.png)
+![Admin Page](./public/storage/photos/admin.dashboard.png)
 
 ### Admin Products Page
-![Admin Products Page](public/storage/photos/admin.products.png)
+![Admin Products Page](./public/storage/photos/admin.products.png)
 
 ### Admin Orders Page
-![Admin Orders Page](public/storage/photos/admin.orders.png)
+![Admin Orders Page](./public/storage/photos/admin.orders.png)
 
 ### Admin Message Page
-![Admin Message Page](public/storage/photos/admin.message.png)
+![Admin Message Page](./public/storage/photos/admin.message.png)
 
 ### Admin Reports Page
-![Admin Reports Page](public/storage/photos/admin.reports.png)
+![Admin Reports Page](./public/storage/photos/admin.reports.png)
 
 ---
 
